@@ -34,7 +34,7 @@ body {
 }
 
 .btn-cta {
-    background: #f78e69;
+    background: #ff4b4bf8;
     color: white;
     padding: 15px 30px;
     text-decoration: none;
@@ -45,11 +45,11 @@ body {
 }
 
 .btn-cta:hover {
-    background: #f75d3f;
+    background: #bd2e12;
 }
 
 .services {
-    background: #f4f4f4;
+    background: #e0e0e0;
     padding: 60px 0;
     text-align: center;
 }
@@ -112,7 +112,7 @@ body {
 }
 
 .contact button {
-    background: #72c2d9;
+    background: #712caa;
     color: white;
     padding: 15px;
     border: none;
@@ -122,7 +122,7 @@ body {
 }
 
 .contact button:hover {
-    background: #5ba5b3;
+    background: #30c9e7;
 }
 
 .footer {
