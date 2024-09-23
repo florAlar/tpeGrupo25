@@ -1,0 +1,4 @@
+TABLAS DE DATOS DE LA VETERINARIA (mycql)
+
+Aquí se encuentran todos los comandos necesarios para la generación automática de las tables del sistema, en base a las demandas de nuestro cliente.
+
