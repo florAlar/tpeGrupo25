@@ -1,3 +1,0 @@
-GUIA DE USO SOBRE LA CARGA DE DATOS EN EL SISTEMA:
-
-"lalala pintatapam"
